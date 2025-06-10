@@ -11,4 +11,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,cs,python,unity,supabase,firebase)](https://skillicons.dev)
 
-👨‍💻 Check out my website! [gorkemdev.vercel.app](gorkemdev.vercel.app)
+👨‍💻 Check out my website! https://gorkemdev.vercel.app
